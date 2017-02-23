@@ -34,3 +34,6 @@ Optionally, you can also install pygame if you want to see your visualization.
 ### Visualizing
 
 To visualize your solution, please only assign values to the values_dict using the ```assign_values``` function provided in solution.py
+
+
+> More algorithms to implement here : http://www.sudokudragon.com/sudokustrategy.htm
